@@ -1,0 +1,13 @@
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/Debug/flutter_acrylic_plugin.dll
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/Debug/url_launcher_windows_plugin.dll
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/Debug/data/flutter_assets/assets/images/logo.png
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

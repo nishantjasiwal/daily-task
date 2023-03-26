@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ASUS\AndroidStudioProjects\daily_task\build\windows\CMakeFiles\8c5a3dfbf0934b16c2f92a087577e6e3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{68F5C75B-A098-321A-9191-80716B64350A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

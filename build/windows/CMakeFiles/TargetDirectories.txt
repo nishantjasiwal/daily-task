@@ -1,0 +1,16 @@
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/CMakeFiles/daily_task.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/plugins/flutter_acrylic/CMakeFiles/flutter_acrylic_plugin.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/plugins/flutter_acrylic/CMakeFiles/INSTALL.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/plugins/flutter_acrylic/CMakeFiles/ALL_BUILD.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/plugins/url_launcher_windows/CMakeFiles/INSTALL.dir
+C:/Users/ASUS/AndroidStudioProjects/daily_task/build/windows/plugins/url_launcher_windows/CMakeFiles/ALL_BUILD.dir
